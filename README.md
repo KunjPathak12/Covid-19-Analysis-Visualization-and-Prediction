@@ -4,4 +4,18 @@ I have Uploaded both jupyter notebook file in the name of miniprojectbook.ipynb 
 I have uploaded the notebook without the output because of the longer output it may can get messy so you can always install the mentioned libraries and run the notebook for the output
 
 
-For Data set GOTO [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
+For Data set  GOTO  [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
+
+Python Libraries for Data analysis
+Matplotlib
+Pandas
+NumPy
+
+Python Libraries for Visualization
+Plotly
+Seaborn
+Folium
+
+Python Prediction Libraries 
+Prophet
+
