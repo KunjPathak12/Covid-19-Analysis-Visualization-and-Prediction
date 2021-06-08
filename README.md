@@ -10,7 +10,7 @@ My Data set was upto 29/05/2021
 
 in line of code 
 
-future=predictModel.make_future_dataframe(periods=300)
+[future=predictModel.make_future_dataframe(periods=300)]
 
 just change the number of periods to your desirable timePeriod
 
