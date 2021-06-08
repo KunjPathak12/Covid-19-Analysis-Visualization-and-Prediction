@@ -18,21 +18,24 @@ just change the number of periods to your desirable timePeriod
 
 
 
-Python Libraries used for Data analysis
+# Python libraries used in the project as listed below
+
+
+ Libraries used for Data analysis
 
 
  Matplotlib
  Pandas
  NumPy
 
-Python Libraries used for Visualization
+ Libraries used for Visualization
 
 
  Plotly
  Seaborn
  Folium
 
-Python  Libraries used for Prediction 
+ Libraries used for Prediction 
 
 
 Prophet
