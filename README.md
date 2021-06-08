@@ -7,15 +7,21 @@ I have uploaded the notebook without the output because of the longer output it 
 For Data set  GOTO  [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
 
 Python Libraries for Data analysis
-Matplotlib
-Pandas
-NumPy
+
+
+1 Matplotlib
+2 Pandas
+3 NumPy
 
 Python Libraries for Visualization
-Plotly
-Seaborn
-Folium
+
+
+1 Plotly
+2 Seaborn
+3 Folium
 
 Python Prediction Libraries 
+
+
 Prophet
 
