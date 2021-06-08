@@ -19,7 +19,7 @@ in line of code
 
 [future=predictModel.make_future_dataframe(periods=300)]
 
-just change the number of periods to your desirable timePeriod
+just change the number of periods to your desirable number for change in timePeriod but don't make it too large!
 
 ![time period change ](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/timePeriod.png?raw=true "time period change")
 
