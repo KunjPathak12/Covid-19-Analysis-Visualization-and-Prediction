@@ -27,7 +27,7 @@ Prophet
 
 
 # For Data set  GOTO  [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
-![Confirmed cases from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/ConfirmedCases.png)
+![Confirmed cases from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/ConfirmedCases.png?raw=true "Confirmed cases from data set plot")
 
 
 
