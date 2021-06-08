@@ -5,8 +5,11 @@ I have uploaded the notebook without the output because of the longer output it 
 
 
 
-My Data set was upto 29/05/2021
+# Dataset Information
 
+For Data set  GOTO  [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
+
+My Data set was upto 29/05/2021
 
 
 
@@ -93,6 +96,4 @@ Prophet
 
 
 
-# Dataset Information
-
-For Data set  GOTO  [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
+# |------------------------------------------End-------------------------------------------|
