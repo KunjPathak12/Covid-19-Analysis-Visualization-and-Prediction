@@ -9,16 +9,16 @@ For Data set  GOTO  [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2
 Python Libraries for Data analysis
 
 
-1 Matplotlib
-2 Pandas
-3 NumPy
+ Matplotlib
+ Pandas
+ NumPy
 
 Python Libraries for Visualization
 
 
-1 Plotly
-2 Seaborn
-3 Folium
+ Plotly
+ Seaborn
+ Folium
 
 Python Prediction Libraries 
 
