@@ -6,21 +6,21 @@ I have uploaded the notebook without the output because of the longer output it 
 
 For Data set  GOTO  [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
 
-Python Libraries for Data analysis
+Python Libraries used for Data analysis
 
 
  Matplotlib
  Pandas
  NumPy
 
-Python Libraries for Visualization
+Python Libraries used for Visualization
 
 
  Plotly
  Seaborn
  Folium
 
-Python Prediction Libraries 
+Python  Libraries used for Prediction 
 
 
 Prophet
