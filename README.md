@@ -29,3 +29,5 @@ Prophet
 # For Data set  GOTO  [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
 
 
+![Plot for Confirmed cases from dataset](/home/blunder-master/Downloads/newplot.png?raw=true "Confirm Cases")
+
