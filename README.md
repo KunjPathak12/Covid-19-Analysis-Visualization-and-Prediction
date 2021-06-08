@@ -3,7 +3,11 @@ In this Mini project i will first analyze and visualize the existing data for co
 I have Uploaded both jupyter notebook file in the name of miniprojectbook.ipynb and also .py file in miniproject folder
 I have uploaded the notebook without the output because of the longer output it may can get messy so you can always install the mentioned libraries and run the notebook for the output
 
+
+
 My Data set was upto 29/05/2021
+
+
 
 
 # Prediction Shown for 300 days but the number of days can be changed from the Line of code as shown below
@@ -62,8 +66,33 @@ Prophet
 
 
 
+# Predicted (future) Confirmed Cases Plot
+
+![Predicted Confirmed cases plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/predictedCases.png?raw=true "Predicted Confirmed cases plot")
+
+
+![Predicted Confirmed cases plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/predictedCases(1).png?raw=true "Predicted Confirmed cases plot in scatter curve")
 
 
 
+# Predicted (future) DeathToll Plot
+
+![Predicted DeathToll plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/predictedDeathtoll.png?raw=true "Predicted DeathToll plot")
+
+
+![Predicted Confirmed cases plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/predictedDeathtoll(1).png?raw=true "Predicted Confirmed cases plot in scatter curve")
+
+
+
+# Predicted (future) Recovered Cases Plot
+
+[Predicted Recovered cases plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/predictedRecovered.png?raw=true "Predicted Confirmed cases plot")
+
+
+![Predicted Recovered cases plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/predictedRecovered(1).png?raw=true "Predicted Recovered cases plot in scatter curve")
+
+
+
+# Dataset Information
 
 For Data set  GOTO  [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
