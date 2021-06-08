@@ -56,7 +56,7 @@ Prophet
 
 
 
-# Recovered Toll Plot from data analysed
+# Recovered Cases Plot from data analysed
 
 ![Recovered cases from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/recovered.png?raw=true "Recovered cases from data set plot")
 
