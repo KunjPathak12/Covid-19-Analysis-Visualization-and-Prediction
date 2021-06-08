@@ -14,7 +14,7 @@ in line of code
 
 just change the number of periods to your desirable timePeriod
 
-![time period change ](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/timePeriod.png?raw=true "time period change")
+![time period change ](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/timePeriod.png?raw=true "time period change")
 
 
 
@@ -46,19 +46,19 @@ Prophet
 
 # Confirmed Cses Plot from data analysed
 
-![Confirmed cases from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/ConfirmedCases.png?raw=true "Confirmed cases from data set plot")
+![Confirmed cases from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/ConfirmedCases.png?raw=true "Confirmed cases from data set plot")
 
 
 
 # Death Toll Plot from data analysed
 
-![Death toll from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/deathtoll.png?raw=true "Confirmed cases from data set plot")
+![Death toll from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/deathtoll.png?raw=true "Confirmed cases from data set plot")
 
 
 
 # Recovered Cases Plot from data analysed
 
-![Recovered cases from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/recovered.png?raw=true "Recovered cases from data set plot")
+![Recovered cases from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Sreenshots/recovered.png?raw=true "Recovered cases from data set plot")
 
 
 
