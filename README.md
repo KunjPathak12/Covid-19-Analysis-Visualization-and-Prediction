@@ -86,7 +86,7 @@ Prophet
 
 # Predicted (future) Recovered Cases Plot
 
-[Predicted Recovered cases plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/predictedRecovered.png?raw=true "Predicted Confirmed cases plot")
+[Predicted Recovered cases plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/predictedRecovered.png?raw=true "Predicted Recovered cases plot")
 
 
 ![Predicted Recovered cases plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/predictedRecovered(1).png?raw=true "Predicted Recovered cases plot in scatter curve")
