@@ -52,13 +52,13 @@ Prophet
 
 # Death Toll Plot from data analysed
 
-![Death toll from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/deathtoll.png?raw=true "Confirmed cases from data set plot")
+![Death toll from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/deathtoll.png?raw=true "Deathtoll from data set plot")
 
 
 
 # Recovered Cases Plot from data analysed
 
-![Recovered cases from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Sreenshots/recovered.png?raw=true "Recovered cases from data set plot")
+![Recovered cases from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/recovered.png?raw=true "Recovered cases from data set plot")
 
 
 
