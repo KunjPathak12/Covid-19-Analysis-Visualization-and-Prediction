@@ -40,7 +40,6 @@ just change the number of periods to your desirable number for change in timePer
  Plotly
  Seaborn
  Folium
- 
  Matplotlib
  
  
