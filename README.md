@@ -52,7 +52,7 @@ Prophet
 
 
 
-# Confirmed Cses Plot from data analysed
+# Confirmed Cases Plot from data analysed
 
 ![Confirmed cases from data set plot](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/ConfirmedCases.png?raw=true "Confirmed cases from data set plot")
 
