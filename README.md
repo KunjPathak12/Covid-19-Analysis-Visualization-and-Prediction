@@ -31,7 +31,6 @@ just change the number of periods to your desirable number for change in timePer
 ->  Libraries used for Data analysis
 
 
- Matplotlib
  Pandas
  NumPy
 
@@ -41,7 +40,9 @@ just change the number of periods to your desirable number for change in timePer
  Plotly
  Seaborn
  Folium
-
+ Matplotlib
+ 
+ 
 ->  Libraries used for Prediction 
 
 
