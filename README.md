@@ -24,6 +24,10 @@ just change the number of periods to your desirable number for change in timePer
 ![time period change ](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/timePeriod.png?raw=true "time period change")
 
 
+Prediction at a glance
+![Prediction at a glance](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction/blob/main/Screenshots/Screenshot_20210621_121255.png?raw=true "Prediction at a glance")
+
+
 
 # Python libraries used in the project as listed below
 
